@@ -13,8 +13,8 @@ const CONFIG = {
     question: 'Đoán được em nà ai chưa ạ? <3',
     btnReply: 'Gửi cho em <3 ',
     reply: 'Em là mụt người xinh đẹp ạ <3',
-    mess: 'Hehe em biết mà, iu nhaa😘😘',
+    mess: 'Hehe em biết màaaa, khum nói đâu😘😘',
     messDesc: 'Em thích anh lắm ạaaaa',
     btnAccept: 'Anh cũm zậy á <3',
-    messLink: 'https://www.facebook.com/hthanh.daver' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    messLink: 'https://www.facebook.com/thaibaminh.dav' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
